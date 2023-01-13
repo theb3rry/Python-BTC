@@ -9,4 +9,4 @@ def get_latest_price():
 for i in range(30):
     print(get_latest_price())
 #TIMER IS SET TO 30 DAYS AND TO FETCH EACH 24HRS
-    time.sleep(86400)  # pause for 2 minutes
+    time.sleep(86400)  # pause for 1 Calendar Day
